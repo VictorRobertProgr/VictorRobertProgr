@@ -1,7 +1,7 @@
 Hello there! I'm Victor and I'm new in this wonderful world of programming.
 I'm really interersted in learning programming and in getting a solid base.
-I'm currently learning JavaScript fundamentals.
-I'm looking to collaborate with who wants to have me as an apprentice. I'm reallly opened to any opportunities in this field.
+I'm currently learning JavaScript fundamentals. Really passionate about this new challenge in my life. Open and ready for any suggestion, help, contribution...
+I'm looking to collaborate with who wants to have me as an apprentice. I'm really opened to any opportunities in this field.
 
 Cheers!
 
